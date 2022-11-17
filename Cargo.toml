@@ -2,6 +2,11 @@
 name = "cressida"
 version = "0.1.0"
 edition = "2021"
+authors = ["Caden A <cadenbryant@hotmail.com>"]
+description = "Simple Math Library for Computer Graphics for Use Across Different Projects. Intended for Personal Use."
+readme = "README.md"
+repository = "https://github.com/CadenAustin/Cressida"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
